@@ -14,7 +14,7 @@ public class Ex06 {
         System.out.println("Nhập vào số kết thúc: ");
         int end = Integer.parseInt(sc.nextLine());
 
-        // TH: end > start thì giải quyết như nào?
+        // TH: end < start thì giải quyết như nào?
 
         // 1. bắt người dùng nhập lại
 
